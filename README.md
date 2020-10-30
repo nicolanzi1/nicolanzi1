@@ -4,7 +4,7 @@
 
 ## I'm a Husband, Developer, Gamer and Cool Geek!!!
 
-- 🔭 I recently finished one of my projects - Apollo (MERN Stack)[project]!
+- 🔭 I recently finished one of my MERN Stack projects - [Apollo][project]
 - 👯 I’m looking to collaborate with other developers
 - 🥅 My 2020 Goals??? Contribute more to Open Source projects
 - 🌱 I would say I’m learning as you read 🤣
