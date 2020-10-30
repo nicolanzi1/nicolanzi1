@@ -38,6 +38,10 @@
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
 
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.nicolanzi.vercel.app/api/spotify)](https://open.spotify.com/user/223b2bqsv233lj75c3ihsfnja)
+
 <br />
 <br />
 
@@ -47,12 +51,6 @@
     <summary>:zap: GitHub Stats</summary>    
     <img align="left" alt="Nick's GitHub Stats" src="https://github-readme-stats.nicolanzi.vercel.app/api?username=nicolanzi1&show_icons=true&theme=radical" />
 </details>
-
-<br />
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.nicolanzi.vercel.app/api/spotify)](https://open.spotify.com/user/223b2bqsv233lj75c3ihsfnja)
 
 [website]: https://www.nicolanz.io
 [linkedin]: https://www.linkedin.com/in/nicola-lanzillotta-94519042/
