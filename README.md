@@ -1,5 +1,7 @@
 ### Hello and welcome, I'm Nicola - aka [Nick][website] 🖖
 
+![Website](https://img.shields.io/website?down_color=red&down_message=DOWN&up_color=green&up_message=UP&url=http%3A%2F%2Fwww.nicolanz.io%2F)
+
 ## I'm a Husband, Developer, Gamer and Cool Geek!!!
 
 - 🔭 I recently finished one of my projects - Apollo (MERN Stack)[project]!
@@ -7,6 +9,10 @@
 - 🥅 My 2020 Goals??? Contribute more to Open Source projects
 - 🌱 I would say I’m learning as you read 🤣
 - 🎸 Fun fact: Not only I love games, but also playing guitar
+
+### Spotify Playing 🎧
+
+[<img src="https://novatorem.nicolanzi.vercel.app/api/spotify-playing" alt="Nick's Spotify Playing" width="350" />](https://open.spotify.com/user/223b2bqsv233lj75c3ihsfnja)
 
 ### Connect with me:
 
@@ -41,7 +47,12 @@
 
 ---
 
-<img align="left" alt="Nick's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nicolanzi1&show_icons=true&theme=synthwave" />
+<details>
+    <summary>:zap: GitHub Stats</summary>
+
+    <img align="left" alt="Nick's GitHub Stats" src="github-readme-stats.nicolanzi.vercel.app/api?username=nicolanzi1&show_icons=true&theme=radical" />
+
+</details>
 
 [website]: https://www.nicolanz.io
 [linkedin]: https://www.linkedin.com/in/nicola-lanzillotta-94519042/
