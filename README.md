@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem.nicolanzi.vercel.app/api/spotify-playing" alt="Nick's Spotify Playing" width="350" />](https://open.spotify.com/user/223b2bqsv233lj75c3ihsfnja)
+[![Spotify](https://novatorem.nicolanzi.vercel.app/api/spotify)](https://open.spotify.com/user/223b2bqsv233lj75c3ihsfnja)
 
 ### Connect with me:
 
@@ -49,9 +49,7 @@
 
 <details>
     <summary>:zap: GitHub Stats</summary>
-
     <img align="left" alt="Nick's GitHub Stats" src="github-readme-stats.nicolanzi.vercel.app/api?username=nicolanzi1&show_icons=true&theme=radical" />
-
 </details>
 
 [website]: https://www.nicolanz.io
