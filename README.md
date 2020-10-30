@@ -10,10 +10,6 @@
 - 🌱 I would say I’m learning as you read 🤣
 - 🎸 Fun fact: Not only I love games, but also playing guitar
 
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.nicolanzi.vercel.app/api/spotify)](https://open.spotify.com/user/223b2bqsv233lj75c3ihsfnja)
-
 ### Connect with me:
 
 [<img align="left" alt="nicolanz.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -51,6 +47,10 @@
     <summary>:zap: GitHub Stats</summary>    
     <img align="left" alt="Nick's GitHub Stats" src="https://github-readme-stats.nicolanzi.vercel.app/api?username=nicolanzi1&show_icons=true&theme=radical" />
 </details>
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.nicolanzi.vercel.app/api/spotify)](https://open.spotify.com/user/223b2bqsv233lj75c3ihsfnja)
 
 [website]: https://www.nicolanz.io
 [linkedin]: https://www.linkedin.com/in/nicola-lanzillotta-94519042/
