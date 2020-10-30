@@ -38,12 +38,12 @@
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
 
+<br />
+<br />
+
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.nicolanzi.vercel.app/api/spotify)](https://open.spotify.com/user/223b2bqsv233lj75c3ihsfnja)
-
-<br />
-<br />
 
 ---
 
