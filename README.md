@@ -48,6 +48,8 @@
     <img align="left" alt="Nick's GitHub Stats" src="https://github-readme-stats.nicolanzi.vercel.app/api?username=nicolanzi1&show_icons=true&theme=radical" />
 </details>
 
+<br />
+
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.nicolanzi.vercel.app/api/spotify)](https://open.spotify.com/user/223b2bqsv233lj75c3ihsfnja)
