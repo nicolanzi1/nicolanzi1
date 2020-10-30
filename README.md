@@ -48,8 +48,8 @@
 ---
 
 <details>
-    <summary>:zap: GitHub Stats</summary>
-    <img align="left" alt="Nick's GitHub Stats" src="github-readme-stats.nicolanzi.vercel.app/api?username=nicolanzi1&show_icons=true&theme=radical" />
+    <summary>:zap: GitHub Stats</summary>    
+    <img align="left" alt="Nick's GitHub Stats" src="https://github-readme-stats.nicolanzi.vercel.app/api?username=nicolanzi1&show_icons=true&theme=radical" />
 </details>
 
 [website]: https://www.nicolanz.io
