@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 My 2020 Goals??? Contribute more to Open Source projects
 - 🌱 I would say I’m learning as you read 🤣
-- 🎸 Fun fact: Not only I love games, but also playing guitar
+- 🎸 Fun fact: Not only do I love games, but also playing guitar
 
 ### Connect with me:
 
