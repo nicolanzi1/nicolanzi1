@@ -1,4 +1,4 @@
-### Hello and welcome, I'm Nicola - aka [Nick][website] 🖖
+### Hello and welcome, I'm Nicola - aka [Nico][website] 🖖
 
 ![Website](https://img.shields.io/website?down_color=red&down_message=DOWN&up_color=green&up_message=UP&url=http%3A%2F%2Fwww.nicolanz.io%2F)
 
