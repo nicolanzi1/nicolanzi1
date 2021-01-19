@@ -4,9 +4,9 @@
 
 ## I'm a Husband, Developer, Gamer and Cool Geek!!!
 
-- 🔭 I recently finished one of my MERN Stack projects - [Apollo][project]
+- 🔭 Do check out my awesome MERN Stack project - [Apollo][project]
 - 👯 I’m looking to collaborate with other developers
-- 🥅 My 2020 Goals??? Contribute more to Open Source projects
+- 🥅 My 2021 Goals??? Contribute more to Open Source projects
 - 🌱 I would say I’m learning as you read 🤣
 - 🎸 Fun fact: Not only do I love games, but also playing guitar
 
