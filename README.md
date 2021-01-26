@@ -14,8 +14,6 @@
 
 [![](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:nicolanzi@gmail.com) [![](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome)](https://www.nicolanz.io) [![](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/nicola-lanzillotta-94519042/?locale=en_US)
 
-<br />
-
 ### My Stack 🛠
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
