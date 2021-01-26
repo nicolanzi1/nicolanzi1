@@ -1,6 +1,6 @@
 ### Hello and welcome, I'm Nicola - aka [Nico][website] 🖖
 
-![Website](https://img.shields.io/website?down_color=red&down_message=DOWN&up_color=green&up_message=UP&url=http%3A%2F%2Fwww.nicolanz.io%2F)
+![Website](https://img.shields.io/website?down_color=red&down_message=DOWN&up_color=green&up_message=UP&url=https%3A%2F%2Fwww.nicolanz.io%2F)
 
 ## I'm a Husband, Developer, Gamer and Cool Geek!!!
 
@@ -10,13 +10,13 @@
 - 🌱 I would say I’m learning as you read 🤣
 - 🎸 Fun fact: Not only do I love games, but also playing guitar
 
-### 📞 Get In Touch:
+### Get In Touch 📞
 
 [![](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:nicolanzi@gmail.com) [![](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome)](https://www.nicolanz.io) [![](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/nicola-lanzillotta-94519042/?locale=en_US)
 
 <br />
 
-### 🛠 My Stack:
+### My Stack 🛠
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
