@@ -4,13 +4,12 @@
 
 - 🔭 Do check out my awesome MERN Stack project - [Apollo][project]
 - 👯 I’m looking to collaborate with other developers
-- 🥅 My 2021 Goals??? Contribute more to Open Source projects
 - 🌱 I would say I’m learning as you read 🤣
 - 🎸 Fun fact: Not only do I love games, but also playing guitar
 
 ### Get In Touch 📞
 
-[![](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:nicolanzi@gmail.com) [![](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome)](https://www.nicolanz.io) [![](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/nicola-lanzillotta-94519042/?locale=en_US)
+[![](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:nicolanzi@gmail.com) [![](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/nicola-lanzillotta-94519042/?locale=en_US)
 
 ### My Stack 🛠
 
